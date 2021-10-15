@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning ...
+- I’m currently learning ... I'm always learning
+- Getting my Masters Degree in Computer Science
 <!--
 **F1lh0sQu3imada/F1lh0sQu3imada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
